@@ -1,0 +1,30 @@
+[
+    {
+        "ticket_id": "CF-0001",
+        "requester": "daniel",
+        "department": "computer science",
+        "title": "no wifi",
+        "description": "wifi data exhausted'",
+        "impact": "high",
+        "urgency": "high",
+        "priority": "Critical",
+        "assigned_to": null,
+        "status": "In Progress",
+        "created_at": "2026-10-09T15:26:48",
+        "updated_at": "2026-10-09T16:19:29"
+    },
+    {
+        "ticket_id": "CF-0002",
+        "requester": "chekus",
+        "department": "1",
+        "title": "4",
+        "description": "broken laptop",
+        "impact": "medium",
+        "urgency": "high",
+        "priority": "High",
+        "assigned_to": null,
+        "status": "Open",
+        "created_at": "2026-10-09T15:50:41",
+        "updated_at": "2026-10-09T15:50:41"
+    }
+]
