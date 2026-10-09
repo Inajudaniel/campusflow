@@ -1,0 +1,21 @@
+cat > .gitignore <<'EOF'
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local application data
+tickets.json
+data/tickets.json
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+EOF
